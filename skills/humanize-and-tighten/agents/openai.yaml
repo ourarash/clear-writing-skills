@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize and Tighten"
+  short_description: "Edit for natural, concise prose without losing useful context"
+  default_prompt: "Use $humanize-and-tighten to revise this draft for natural, concise prose while preserving facts and useful context."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain English with Context"
+  short_description: "Explain clearly with context, examples, and evidence"
+  default_prompt: "Use $plain-english-with-context to explain the answer and its practical implications clearly."
